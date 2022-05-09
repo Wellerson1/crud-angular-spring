@@ -1,0 +1,23 @@
+table {
+  width: 100%;
+}
+
+.loading-spinner {
+  padding: 25px;
+  display: flex;
+  background-color: rgb(212, 212, 212);
+  align-items: center;
+  justify-content: center;
+}
+
+.button-error {
+  background-color: red;
+  color: #fff;
+}
+
+.table-celula-button {
+  padding: 10px;
+  width: 50px;
+}
+
+
